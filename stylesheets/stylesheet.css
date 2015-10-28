@@ -8,6 +8,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; 
+  position:absolute;
+  top:0%;
+  left:15%;
   border:1%;
   border-color:blue;
   width:70%;
